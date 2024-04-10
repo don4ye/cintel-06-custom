@@ -20,7 +20,6 @@ with ui.sidebar(open="desktop", style="background-color: lightblue"):
     # Integrated UI elements
     ui.h6("Links:", style="color: #fff;")
     ui.a("GitHub Source", href="https://github.com/don4ye/cintel-06-custom", target="_blank", style="color: #fff; text-decoration: none; display: block; margin-bottom: 10px;")
-    ui.a("GitHub App", href="https://don4ye.github.io/cintel-05-cintel/", target="_blank", style="color: #fff; text-decoration: none; display: block; margin-bottom: 10px;")
     ui.a("PyShiny", href="https://shiny.posit.co/py/", target="_blank", style="color: #fff; text-decoration: none; display: block; margin-bottom: 10px;")
 
 # Main content with layout_columns
